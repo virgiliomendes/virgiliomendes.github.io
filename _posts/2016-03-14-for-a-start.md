@@ -1,18 +1,17 @@
 ---
 layout: post
-title: For a start!
+title: Que começem os jogos!
 author: Neylson Crepalde
 date: March, 14, 2016
 ---
 
-Olá. Este é o primeiro post do meu novo blog **R e Redes**. Neste espaço colocarei posts sobre algumas análises
-que tenho feito utilizando a linguagem R, ferramentas para análises de rede e alguns testes com captura de dados
-na rede.
+Bem vindo! Este é o primeiro post desta iniciativa **Methodology, Social and Political Sciences**. Este espaço será dedicado às análises, metodologias e processamentos de dados (diversos) utilizando a linguagem R. 
 
-Qualquer dúvida, não hesitem em comentar e me escrever.
+Estou sempre à disposição, qualquer dúvida ou sugestões não hesitem em comentar ou entrar em contato.
 
-Visitem também minha página no [Facebook](https://www.facebook.com/neylson.crepalde) e no [Twitter](https://www.twitter.com/ncrepalde).
+
+Visitem também minha página no [Facebook](https://www.facebook.com/virgilio.mendesebm), no [Twitter](https://twitter.com/Mendes_txt) e no [Linkedin] (https://www.linkedin.com/in/virgiliomendes/).
 
 Abraços,
 
-Neylson
+Virgilio Mendes.
