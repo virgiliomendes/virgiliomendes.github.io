@@ -10,7 +10,7 @@ Bem vindo! Este é o primeiro post desta iniciativa **Methodology, Social and Po
 Estou sempre à disposição, qualquer dúvida ou sugestões não hesitem em comentar ou entrar em contato.
 
 
-Visitem também minha página no [Facebook](https://www.facebook.com/virgilio.mendesebm), no [Twitter](https://twitter.com/Mendes_txt) e no [Linkedin] (linkedin).
+Visitem também minha página no [Facebook](https://www.facebook.com/virgilio.mendesebm), no [Twitter](https://twitter.com/Mendes_txt) e no [Linkedin](https://www.linkedin.com/in/virgiliomendes).
 
 Abraços,
 
