@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Que começem os jogos!
-author: Neylson Crepalde
-date: March, 14, 2016
+author: Virgilio Mendes
+date: December, 19, 2019
 ---
 
 Bem vindo! Este é o primeiro post desta iniciativa **Methodology, Social and Political Sciences**. Este espaço será dedicado às análises, metodologias e processamentos de dados (diversos) utilizando a linguagem R. 
