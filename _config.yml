@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Social Science, Political Science and Methology
+title: Methodology, Social and Political Sciences
 
 # Short description of your site
 description: Blog do Virgilio de A. Mendes
@@ -23,7 +23,7 @@ description: Blog do Virgilio de A. Mendes
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/Neylson.jpg"
+#avatar: "/img/Virgilio.jpg"
 
 # List of links in the navigation bar
 navbar-links:
@@ -48,7 +48,7 @@ author:
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   facebook: true
   email: true
   twitter: true
