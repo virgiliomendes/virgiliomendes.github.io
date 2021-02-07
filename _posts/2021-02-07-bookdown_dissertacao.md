@@ -13,7 +13,7 @@ Este é um projeto prévio, onde não foi oficialmente aceito nem há pretençã
 
 Estou sempre à disposição, qualquer dúvida ou sugestões não hesitem em comentar ou entrar em contato. 
 
-Para acessá-lo visite [aqui](https://github.com/virgiliomendes/projeto_dissertacao/blob/master/Bookdown_r/_book/preface.html).
+Para acessá-lo visite [aqui](https://virgiliomendes.github.io/publicacoes/projeto_dissertacao/_book/preface.html).
 
 
 Visitem também minha página no [Facebook](https://www.facebook.com/virgilio.mendesebm), no [Twitter](https://twitter.com/Mendes_txt) e no [Linkedin](https://www.linkedin.com/in/virgiliomendes).
