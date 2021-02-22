@@ -20,7 +20,10 @@ Research Interests: Political Behavior; Comparative Analysis; Internet and Socia
 
 
 Currículo Lattes: [Aqui](http://lattes.cnpq.br/3781647781988333)
-Currículo Vitae: [Aqui](https://github.com/virgiliomendes/virgiliomendes/blob/master/CV_Virgilio.pdf)
+<br>
+Currículo Vitae Acadêmico: [Aqui](https://github.com/virgiliomendes/virgiliomendes/blob/master/CV_Virgilio.pdf)
+<br>
+Currículo Vitae Mercado: [Aqui](https://github.com/virgiliomendes/virgiliomendes/blob/master/CV_Virgilio_mercado.pdf)
 
 
 
